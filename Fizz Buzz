@@ -1,3 +1,4 @@
+# Write a program to "Fizz" when the given number is divisible by 3, "Buzz" when divisible by 5 or "FizzBuzz" when divisible by both 3 and 5
 def fizz_buzz(input):
     if (input % 3 == 0) and (input % 5 == 0):
         return "FizzBuzz"
