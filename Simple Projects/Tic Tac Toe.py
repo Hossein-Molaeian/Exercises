@@ -70,7 +70,6 @@ def win_check(board, mark):
 
 """
 5- Write a function that uses the random module to randomly decide which player goes first.
-You may want to lookup random.randint() Return a string of which player went first.
 """
 
 
