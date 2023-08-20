@@ -8,7 +8,7 @@ where each index 1-9 corresponds with a number on a number pad, so you get a 3 b
 
 
 def display_board(board):
-    print("\n"*3)
+    print("\n"*5)
     print(board[7]+'|'+board[8]+'|'+board[9])
     print("-----")
     print(board[4]+'|'+board[5]+'|'+board[6])
