@@ -1,3 +1,9 @@
+"""
+This is a web scraping script for printing authors of the quotes in web scraping test website toscrape.com,
+It doesn't have a limitation by page number and
+It uses "lxml" parser which needs to be installed by command "pip install lxml"
+"""
+
 import bs4
 import requests
 
