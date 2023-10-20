@@ -1,5 +1,5 @@
 """
-Permutation means the number of ways things can be ordered or arranged
+Permutation means the number of ways things can be ordered or arranged.
 """
 
 
