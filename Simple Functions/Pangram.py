@@ -1,6 +1,6 @@
 """
-Write a function to check whether a string is pangram or not
-(pangram string is a string that contains all letters in the alphabet)
+Write a function to check whether a string is pangram or not.
+(Pangram string is a string that contains all letters in the alphabet).
 """
 import string
 
