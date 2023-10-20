@@ -1,5 +1,5 @@
 """
-Write a function that computes the first 'n' fibonacci numbers
+Write a function that computes the first 'n' fibonacci numbers.
 """
 
 
