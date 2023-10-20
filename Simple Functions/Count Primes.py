@@ -1,6 +1,6 @@
 """
 Write a function that returns the number of prime numbers that
-exist upto and including a given number(0 and 1 aren't prime)
+exist up to and including a given number (0 and 1 aren't prime).
 """
 
 
