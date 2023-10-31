@@ -1,6 +1,6 @@
 **Exercise: Build a sign in form similar to the image below.**
 
-![2-Edited](https://github.com/Hossein7346/Exercises/assets/96408257/d807a9f0-765f-45ae-a473-d7482880c1e9)
+<img width="480" alt="2-Edited" src="https://github.com/Hossein7346/Exercises/assets/96408257/6b6a396d-d8da-4910-8dfd-6118f5ca7605">
 
 #
 **Hints:**
