@@ -1,6 +1,6 @@
 **Exercise: Build a card similar to the image below.**
 
-![3-Edited](https://github.com/Hossein7346/Exercises/assets/96408257/a6b784f5-4f4a-4587-a744-33a5e76eba43)
+<img width="480" alt="3-Edited" src="https://github.com/Hossein7346/Exercises/assets/96408257/e029b708-8022-46d2-b747-24275ea5ff40">
 
 #
 **Hints:**
