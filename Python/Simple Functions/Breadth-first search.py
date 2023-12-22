@@ -28,5 +28,5 @@ def bfs(visited, graph, node):
                 queue.append(neighbour)
 
 
-print("Following is the research path:")
+print("BFS research path:")
 bfs(visited, graph, '4')
