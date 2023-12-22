@@ -1,1 +1,1 @@
-Useful exercises I did during my studying journey.
+This repo is the exercises I did during my studying journey. Hope it helps!
